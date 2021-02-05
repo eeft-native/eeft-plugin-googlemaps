@@ -1,0 +1,14 @@
+{
+  "name": "eeft-plugin-googlemaps-tests",
+  "version": "0.0.4",
+  "description": "",
+  "cordova": {
+    "id": "eeft-plugin-googlemaps-tests",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "Apache 2.0"
+}
